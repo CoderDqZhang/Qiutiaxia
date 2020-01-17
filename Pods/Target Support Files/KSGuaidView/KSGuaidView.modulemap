@@ -1,0 +1,6 @@
+framework module KSGuaidView {
+  umbrella header "KSGuaidView-umbrella.h"
+
+  export *
+  module * { export * }
+}
